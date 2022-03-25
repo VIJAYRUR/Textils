@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Textils/static/css/main.073c9b0a.css",
+    "main.js": "/Textils/static/js/main.665ffca6.js",
+    "static/js/787.e577274b.chunk.js": "/Textils/static/js/787.e577274b.chunk.js",
+    "index.html": "/Textils/index.html",
+    "main.073c9b0a.css.map": "/Textils/static/css/main.073c9b0a.css.map",
+    "main.665ffca6.js.map": "/Textils/static/js/main.665ffca6.js.map",
+    "787.e577274b.chunk.js.map": "/Textils/static/js/787.e577274b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.665ffca6.js"
+  ]
+}
